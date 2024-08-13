@@ -1,0 +1,14 @@
+F:\School\SQL_1\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.AssemblyReference.cache
+F:\School\SQL_1\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.CoreCompileInputs.cache
+F:\School\SQL_1\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.exe.config
+F:\School\SQL_1\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.exe
+F:\School\SQL_1\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.pdb
+F:\School\SQL_1\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.exe
+F:\School\SQL_1\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.pdb
+D:\School\SQL_1\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.exe.config
+D:\School\SQL_1\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.exe
+D:\School\SQL_1\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.pdb
+D:\School\SQL_1\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.AssemblyReference.cache
+D:\School\SQL_1\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.CoreCompileInputs.cache
+D:\School\SQL_1\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.exe
+D:\School\SQL_1\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.pdb
